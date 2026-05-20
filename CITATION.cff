@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this code or data, please cite the associated paper."
 title: "Queue Pressure and Trade Reduction in Dynamic Double Auctions"
 authors:
@@ -9,6 +9,7 @@ authors:
     given-names: "Bo"
     orcid: "https://orcid.org/0009-0007-4620-2766"
 year: 2026
+doi: "10.5281/zenodo.20314091"
 repository-code: "https://github.com/chraon3/queue-aware-dynamic-double-auctions"
 license: "MIT"
 preferred-citation:
@@ -23,3 +24,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0007-4620-2766"
   year: 2026
   journal: "Journal of Economic Theory"
+

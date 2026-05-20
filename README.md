@@ -1,4 +1,6 @@
-# Queue-Aware Dynamic Double Auctions
+﻿# Queue-Aware Dynamic Double Auctions
+
+[![DOI](https://zenodo.org/badge/1244350843.svg)](https://doi.org/10.5281/zenodo.20313914)
 
 This repository contains the replication package for the manuscript:
 
@@ -7,6 +9,12 @@ This repository contains the replication package for the manuscript:
 Authors: Xingfu Zheng and Bo Wang, Harbin Engineering University.
 
 Recommended repository name: `queue-aware-dynamic-double-auctions`.
+
+Versioned DOI for the JET submission release:
+https://doi.org/10.5281/zenodo.20314091
+
+GitHub release:
+https://github.com/chraon3/queue-aware-dynamic-double-auctions/releases/tag/v1.0.2-jet-submission
 
 ## Contents
 
@@ -49,3 +57,4 @@ responsibility for the content.
 The replication code is released under the MIT License unless otherwise specified.
 Generated manuscript text and third-party references remain governed by their
 respective copyrights.
+
