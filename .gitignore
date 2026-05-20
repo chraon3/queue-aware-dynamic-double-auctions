@@ -1,0 +1,18 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Model checkpoints and large local binaries
+*.pt
+*.pth
+*.pkl
+
+# Local LaTeX build outputs
+paper/build/
+.tools/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

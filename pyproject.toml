@@ -1,0 +1,47 @@
+[project]
+name = "queue-aware-dynamic-double-auctions"
+version = "0.1.0"
+description = "Replication code and manuscript assets for queue-aware dynamic double auctions."
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "torch",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pre-commit>=3.7",
+    "ruff>=0.5",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+exclude = [
+    ".tools",
+    "archive",
+    "experiments",
+    "experiments_summary",
+    "outputs_main",
+    "outputs_smoke",
+    "outputs_smoke2_adv",
+    "outputs_smoke2_grid",
+    "outputs_smoke3",
+    "outputs_smoke_audit",
+    "outputs_smoke_ranked",
+    "outputs_summary",
+    "outputs_w2",
+    "outputs_w32",
+    "paper/build",
+    "paper/paper_figure_page_previews",
+]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"
