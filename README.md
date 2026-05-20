@@ -1,6 +1,6 @@
 ﻿# Queue-Aware Dynamic Double Auctions
 
-[![DOI](https://zenodo.org/badge/1244350843.svg)](https://doi.org/10.5281/zenodo.20313914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20314091.svg)](https://doi.org/10.5281/zenodo.20314091)
 
 This repository contains the replication package for the manuscript:
 
